@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/adetoadeto/Social-Links-Profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://adetoadeto.github.io/Social-Links-Profile/)
 
 ## My process
 
