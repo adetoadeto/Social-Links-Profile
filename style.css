@@ -95,10 +95,13 @@ button:focus{
     color: hsl(228, 45%, 44%); 
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 500px) {
     .container {
         display: block;
-        margin: 9rem 2rem ;
+        padding: 5rem 3rem;
         height: auto;
+    }
+    .content {
+        max-width: 400px;
     }
 }
